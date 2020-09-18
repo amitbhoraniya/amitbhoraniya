@@ -20,11 +20,11 @@ I am Amit Bhoraniya, Enthusiastic Software Developer from <b>Ahmedabad, India</b
 ![Appium](https://img.shields.io/badge/-Appium-67459b?style=flat-square&logoColor=white)
 
 
-### Where do I work:question:
+### Where do I work❓
 
 I work as a Technical Lead at [Infostretch](https://www.infostretch.com/).
 
-### Where do I contribute:question:
+### Where do I contribute❓
 
 🎁 Projects | ⭐ Stars | 📚 Forks | 🛎 Issues | 📬 Pull requests
 --- | --- | --- | --- |---
@@ -32,8 +32,16 @@ I work as a Technical Lead at [Infostretch](https://www.infostretch.com/).
 [QAF Web Service Support](https://github.com/qmetry/qaf-support-ws) | ![Stars](https://img.shields.io/github/stars/qmetry/qaf-support-ws?style=flat-square&labelColor=343b41) | ![Forks](https://img.shields.io/github/forks/qmetry/qaf-support-ws?style=flat-square&labelColor=343b41) | ![Issues](https://img.shields.io/github/issues/qmetry/qaf-support-ws?style=flat-square&labelColor=343b41) | ![Pull Requests](https://img.shields.io/github/issues-pr/qmetry/qaf-support-ws?style=flat-square&labelColor=343b41)
 [QAF Elasticsearch Support](https://github.com/qmetry/qaf-support-elasticsearch) | ![Stars](https://img.shields.io/github/stars/qmetry/qaf-support-elasticsearch?style=flat-square&labelColor=343b41) | ![Forks](https://img.shields.io/github/forks/qmetry/qaf-support-elasticsearch?style=flat-square&labelColor=343b41) | ![Issues](https://img.shields.io/github/issues/qmetry/qaf-support-elasticsearch?style=flat-square&labelColor=343b41) | ![Pull Requests](https://img.shields.io/github/issues-pr/qmetry/qaf-support-elasticsearch?style=flat-square&labelColor=343b41)
 
+### What are my recent posts❓🔥
+ - [Spring Boot with OSGi](https://medium.com/@amitbhoraniya/spring-boot-with-osgi-25d2387a459e)
+ - [Headless Testing with Selenium & QAF](https://medium.com/@amitbhoraniya/headless-testing-with-selenium-qaf-69ff1f45e67e)
+ - [QAF and Guice](https://medium.com/@amitbhoraniya/qaf-and-guice-754dc998c6f9)
+ - [Getting started with Selenium and JavaScript](https://medium.com/@amitbhoraniya/getting-started-with-selenium-and-javascript-df8468462708)
+ - [Scriptless Test Automation Reality](https://medium.com/@amitbhoraniya/scriptless-test-automation-reality-f25b13e60b3d)
+  
 
-### Where to find me:question:
+
+### Where to find me❓
 
 [![Github](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/amitbhoraniya)
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/amitbhoraniya)
