@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=amitbhoraniya)
 
-### Who am I:question:
+### Who am I:question::bust_in_silhouette:
 
 I am Amit Bhoraniya, Enthusiastic Software Developer from <b>Ahmedabad, India</b> <img src="https://image.flaticon.com/icons/svg/321/321238.svg" width="14"/>.
 
@@ -20,11 +20,11 @@ I am Amit Bhoraniya, Enthusiastic Software Developer from <b>Ahmedabad, India</b
 ![Appium](https://img.shields.io/badge/-Appium-67459b?style=flat-square&logoColor=white)
 
 
-### Where do I work❓
+### Where do I work❓:office:
 
 I work as a Technical Lead at [Infostretch](https://www.infostretch.com/).
 
-### Where do I contribute❓
+### Where do I contribute❓:boom:
 
 🎁 Projects | ⭐ Stars | 📚 Forks | 🛎 Issues | 📬 Pull requests
 --- | --- | --- | --- |---
@@ -40,9 +40,8 @@ I work as a Technical Lead at [Infostretch](https://www.infostretch.com/).
  - [Scriptless Test Automation Reality](https://medium.com/@amitbhoraniya/scriptless-test-automation-reality-f25b13e60b3d)
   
 
-
-### Where to find me❓
-
+### Where to find me❓:email:
+[![Email](https://img.shields.io/badge/GMail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:amitbhoraniya007@gmail.com)
 [![Github](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/amitbhoraniya)
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/amitbhoraniya)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amit-bhoraniya/)
